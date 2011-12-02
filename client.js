@@ -1,5 +1,4 @@
-var sys     = require('sys'),
-    http    = require('http'),
+var http    = require('http'),
     qs      = require('querystring'),
     url     = require('url');
 
